@@ -3,7 +3,7 @@
 ## 1. 作业1 《倚天屠龙记》前十人名出现词频分析
 作业1描述
 
-[作业1链接](https://baidu.com)
+[作业1链接](https://github.com/ewykric/ewykric.github.io)
 ## 2. 作业2 中国地图、世界地图
 作业2描述
 
