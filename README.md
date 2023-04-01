@@ -8,7 +8,7 @@
 ## 2. 作业2 2021GDP世界前十国家地图（map）展示
 
 
-[作业2展示链接]()
+[作业2展示链接](https://ewykric.github.io/map_gdp_series.html)
 ## 3. 作业3 2021GDP世界前十国家人均GDP与恩格尔系数组合分析
 
 
