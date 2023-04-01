@@ -1,10 +1,7 @@
 """
-Date: 2021.3.22
-Author: Justin
+Date: 2023.4.1
+Author: 王煜楷
 
-要点说明：
-Map 地图
-分多个系列填充颜色
 """
 
 from pyecharts.faker import Faker
