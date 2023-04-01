@@ -12,7 +12,7 @@ from pyecharts.globals import ChartType, SymbolType
 
 c = (
     Map()
-    .add("2022名义GDP（单位：百万美元）",  #数据来源：世界银行
+    .add("2022名义GDP（单位：百万美元）",  #数据来源：国际货币基金组织（IMF）
          [('United States',25035164), ('China',18321197), ('Japan',4300621), ('Germany',4031149), ('India',3468566),
           ('United Kingdom',3198470), ('France',2778090), ('Canada',2200352), ('Russia',2133092), ('Italy',1996934)],
          maptype="world",
