@@ -3,8 +3,6 @@ Date: 2023.4.1
 Author: 王煜楷
 
 """
-
-from pyecharts.faker import Faker
 from pyecharts import options as opts
 from pyecharts.charts import Map
 from pyecharts.globals import ChartType, SymbolType
