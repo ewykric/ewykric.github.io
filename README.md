@@ -12,6 +12,6 @@
 ## 3. 作业3 2021GDP世界前十国家人均GDP与恩格尔系数组合分析
 
 
-[作业3展示链接]()
+[作业3展示链接](https://ewykric.github.io/gdpEngel.html)
 
 [作业仓库链接](https://github.com/ewykric/ewykric.github.io/)
