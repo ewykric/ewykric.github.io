@@ -8,7 +8,7 @@
 [作业1展示链接](https://github.com/ewykric/ewykric.github.io/blob/master/%E5%80%9A%E5%A4%A9%E5%B1%A0%E9%BE%99%E8%AE%B0-%E4%BA%BA%E7%89%A9%E8%AF%8D%E9%A2%91.png)
 
 ## 2. 作业2 2021GDP世界前十国家地图（map）展示
-由国际货币基金组织（IMF）上获得2022年名义GDP全球排名前十的国家及其数据，以世界地图的形式展示出来。主要利用的是pyechart库中的options，Map以及ChartType工具来实现调整各项参数以及数据，最后渲染成html文件存入output目录下，具体操作与展示结果可在作业仓库链接里的github库中查看。
+由国际货币基金组织（IMF）上获得2022年名义GDP全球排名前十的国家及其数据，以世界地图的形式展示出来。主要利用的是pyecharts库中的options模块，pyecharts.charts中的Map模块以及pyecharts.global中的ChartType和SymbolType模块来实现调整各项参数以及数据，最后渲染成html文件存入output目录下，具体操作与展示结果可在作业仓库链接里的github库中查看。
 
 [作业2展示链接](https://ewykric.github.io/map_gdp_series.html)
 ## 3. 作业3 2021GDP世界前十国家人均GDP与恩格尔系数组合分析
