@@ -9,8 +9,11 @@
 
 ## 2. 作业2 全球GDP地图（map）展示
 作业2中我们用了pyecharts库生成了一张世界地图图表，以百万美元为单位展示了各个国家的GDP。
+
 我们首先从pyecharts库中导入了options模块，pyecharts.charts中的Map模块以及pyecharts.global中的ChartType和SymbolType模块来实现调整各项参数以及数据，然后从文本文件“gdp_data.txt”中读取数据，我们假定该文件包含各个国家/地区的 GDP 数据（作业中有附上示例数据）。 数据逐行读取，去除任何空白字符，并使用制表符作为分隔符拆分为多个字段，结果数据存储在名为数据（data）的列表中。
+
 将数据列表转化为格式化数据列表（formatted_data），其中每一项都是一个包含国家名称（原始数据中的第一个字段）及其 GDP 值的元组。
+
 按照老师上课使用的“地图”类来创建地图图表，调整各项参数并渲染成html文件存入output目录下，具体操作与展示结果可在作业仓库链接里的github库中查看。
 
 [作业2展示链接](https://ewykric.github.io/map_gdp.html)
