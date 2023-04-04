@@ -28,10 +28,9 @@ txt_file.close()
 
 #添词
 jieba.add_word('张教主')
-jieba.add_word('芷若')
 jieba.add_word('杨逍')
 jieba.add_word('光明左使')
-
+jieba.add_word('芷若')
 
 # 分词
 word_list = jieba.lcut(content)
