@@ -90,7 +90,7 @@ print('经统计，共有' + str(total_num) + '个不同的词')
 # 根据用户需求，打印排名前列的词，同时把统计结果存入文件
 num = input('您想查看前多少个人物？（仅保证统计前十个人物）[10]:')
 if not num.isdigit() or num == '': # 如果输入的不全是数字，或者直接按了回车
-    num = 10  # 设成查看前10名
+    num = 10  # 默认查看前10名
 else:
     num = int(num)  # 如果输入了正常的数字，则按用户需求设置
 
@@ -129,7 +129,7 @@ for line in line_list:
 
 n = num
 
-plt.title('人物词频统计') # 图表标题
+plt.title('倚天屠龙记人物词频统计') # 图表标题
 plt.xlabel('人物') # x轴标签
 plt.ylabel('出现次数') # y轴标签
 plt.bar(range(n), cnt_list[0:n])
