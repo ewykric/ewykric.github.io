@@ -5,7 +5,7 @@
 
 而后再使用matplotlib库中的绘图工具读取output目录下统计到的前十出现人名的词频列表，将词频列表以柱状图形式展示（注意要先引入os库设置中文字体，否则展示图里无法显示中文字符），具体操作与展示结果可在作业仓库链接里的github库中查看。
 
-[作业1展示链接](https://github.com/ewykric/ewykric.github.io/blob/master/%E5%80%9A%E5%A4%A9%E5%B1%A0%E9%BE%99%E8%AE%B0-%E4%BA%BA%E7%89%A9%E8%AF%8D%E9%A2%91.png)
+[作业1仓库链接](https://github.com/ewykric/ewykric.github.io/tree/master)
 
 ## 2. 作业2 全球GDP地图（map）展示
 作业2中我们用了pyecharts库生成了一张世界地图图表，以百万美元为单位展示了各个国家的GDP。
@@ -16,7 +16,7 @@
 
 按照老师上课使用的“地图”类来创建地图图表，调整各项参数并渲染成html文件存入output目录下，具体操作与展示结果可在作业仓库链接里的github库中查看。
 
-[作业2展示链接](https://ewykric.github.io/map_gdp.html)
+[作业2网页展示链接](https://ewykric.github.io/map_gdp.html)
 ## 3. 作业3 国家人均GDP与恩格尔系数组合分析
 首先需要说明的是，人均GDP一直被视为衡量一个国家经济水平，尤其是人均收入的重要指标，因此人均GDP在一定程度上反映各国的贫富情况；而恩格尔指数是国民食品支出占总消费支出的比例，一般认为越先进富足的国家的恩格尔指数会越小。
 
@@ -24,6 +24,6 @@
 
 从最后的展示结果可以发现，人均GDP确实和恩格尔系数呈负相关的关系。具体操作与展示结果可在作业仓库链接里的github库中查看。
 
-[作业3展示链接](https://ewykric.github.io/gdpEngel.html)
+[作业3网页展示链接](https://ewykric.github.io/gdpEngel.html)
 
-[作业仓库链接](https://github.com/ewykric/ewykric.github.io/)
+[第一次作业仓库链接](https://github.com/ewykric/ewykric.github.io/)
