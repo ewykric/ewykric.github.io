@@ -79,4 +79,4 @@ grid.add(bar,
           opts.GridOpts(pos_left="10%", pos_right="10%"),
           is_control_axis_index=True, #是否由自己控制 Axis 索引
           )
-grid.render('./output/gdpEngel.html')
+grid.render('./output/combination.html')

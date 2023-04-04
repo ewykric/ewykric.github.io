@@ -29,4 +29,4 @@ c = (
     )
 )
 
-c.render('./map_gdp.html')
+c.render('./output/map_gdp.html')

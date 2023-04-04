@@ -1,3 +1,9 @@
+"""
+Date: 2023.4.1
+Author: 王煜楷
+
+"""
+
 import jieba
 import matplotlib
 import matplotlib.pyplot as plt
