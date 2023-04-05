@@ -23,6 +23,6 @@
 
 从最后的展示结果可以发现，人均GDP确实和恩格尔系数呈负相关的关系。具体操作与展示结果可在作业仓库链接里的github库中查看，点击下列链接可直接预览由示例数据渲染的html网页。。
 
-[作业3网页展示链接](https://ewykric.github.io/gdpEngel.html)
+[作业3网页展示链接](https://ewykric.github.io/combination.html)
 
 [第一次作业仓库链接](https://github.com/ewykric/ewykric.github.io/)
