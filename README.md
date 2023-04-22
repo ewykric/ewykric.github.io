@@ -95,7 +95,7 @@
 
 三、对渲染完成的html文件进行简单设计，如增加标题文字以及插入剧照等
 
-1、<style>里定义内部样式表，包含了一些CSS样式：.centered、.highlight_text、.normal、.illustrate、#Kai：这些都是CSS样式的类或ID选择器，用于定义不同的样式。
+1、style里定义内部样式表，包含了一些CSS样式：.centered、.highlight_text、.normal、.illustrate、#Kai：这些都是CSS样式的类或ID选择器，用于定义不同的样式。
 
 2、body利用.centered样式使得全部元素居中展示（但是无法使得渲染出来的环形共现分析图居中，不知道该怎么解决），加上标题、剧组图片、一段说明文字和一个人物共现分析图的标题。
 
